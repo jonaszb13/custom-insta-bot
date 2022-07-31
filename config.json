@@ -1,0 +1,9 @@
+{
+    "script_settings": {
+        "license": "a",
+        "use_proxy": false,
+        "proxy_type": "https",
+        "threading": 1,
+        "message_amount": 1
+    }
+}
